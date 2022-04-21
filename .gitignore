@@ -1,0 +1,15 @@
+
+*.o
+
+.svn
+.svnignore
+.config
+.config.old
+.oldconfig
+autoconf.h
+config.in
+images
+romfs
+bulkbuild
+svn-commit*.tmp
+

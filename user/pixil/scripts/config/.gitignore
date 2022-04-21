@@ -1,0 +1,8 @@
+conf
+mconf
+lkc_defs.h
+lex.zconf.c
+zconf.tab.[ch]
+lex.backup
+zconf.output
+

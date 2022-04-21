@@ -1,0 +1,7 @@
+.config
+.config.mkconfig
+.depend
+.hdepend
+busybox
+busybox.links
+
